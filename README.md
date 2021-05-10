@@ -1,0 +1,2 @@
+# 0-Setup-Your-Python-Environment-for-Machine-Learning-with-Anaconda
+Anaconda is a distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS. It is developed and maintained by Anaconda, Inc.,
